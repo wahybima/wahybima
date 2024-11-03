@@ -1,4 +1,4 @@
-👋 Hi, I’m @wahybima
+👋 Hi, I’m Wahyu Bima
 👀 I’m interested in Python, JavaScript, DevOps
 🌱 I’m currently learning Docker and other DevOps tools
 📫 How to reach me Instagram @wahybima
